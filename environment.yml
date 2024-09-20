@@ -1,0 +1,6 @@
+name: Simplified data science project template
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
